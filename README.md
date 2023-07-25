@@ -10,6 +10,7 @@ Unknown Text is a transpiler to translate your normal text using a algorithm int
 
 [ger]
 Um Unknown Text zu benutzen, muss man unter Releases die Version für dein Betriebssystem downloaden
+_(https://github.com/kingmdizze/UnknownText/releases/tag/UnknownText)_
 
 [eng]
 TODO...
