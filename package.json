@@ -1,0 +1,21 @@
+{
+    "name": "unknowntext",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "dev": "nodemon src/UnknownText.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^20.4.4",
+        "nodemon": "^3.0.1",
+        "ts-node": "^10.9.1"
+    },
+    "dependencies": {
+        "chalk": "^4.1.2"
+    }
+}

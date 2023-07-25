@@ -1,0 +1,6 @@
+dist
+.vscode
+node_modules
+UnknownText-linux
+UnknownText-macos
+UnknownText-win.exe
