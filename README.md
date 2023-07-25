@@ -22,6 +22,14 @@ Wenn man die Software gestartet hat(doppelclick) muss man einfach nur seinen Tex
 [eng]
 TODO...
 
+```
+UnknownText-win.exe - Windows
+UnknownText-macos - Mac
+UnknownText-linux - Linux
+```
+
+_Falls Windows Defender anspringt, einfach auf __Weitere Informationen__ clicken und dann auf __Trotzdem ausführen___
+
 ## Beispiele
 
 Benutzung mit normalen text
