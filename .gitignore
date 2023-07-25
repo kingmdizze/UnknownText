@@ -1,5 +1,6 @@
 dist
 .vscode
+.prettierrc
 node_modules
 UnknownText-linux
 UnknownText-macos
